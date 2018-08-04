@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# Environments
+PGA/
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+pga_index.csv
