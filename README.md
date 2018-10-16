@@ -8,6 +8,6 @@ As for now, I decided to run some descriptive statistics also on the repos thems
 
 I am following the imaginary steps because I believe they make sense:
 
-- [ ] 1. Get siva files from PGA (following [PGA docs](https://github.com/src-d/datasets/blob/master/PublicGitArchive/pga/README.md))
+- [X] 1. Get siva files from PGA (following [PGA docs](https://github.com/src-d/datasets/blob/master/PublicGitArchive/pga/README.md))
 - [ ] 2. Extract/download siva files (following [go-siva docs](https://github.com/src-d/go-siva))
 - [ ] 3. Run queries using gitbase (following [docs.sourced.tech intro](https://docs.sourced.tech/intro/))
